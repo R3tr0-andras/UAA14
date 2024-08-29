@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\bin\Debug\net6.0\tryparseRAPPELS.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\bin\Debug\net6.0\tryparseRAPPELS.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\bin\Debug\net6.0\tryparseRAPPELS.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\bin\Debug\net6.0\tryparseRAPPELS.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\bin\Debug\net6.0\tryparseRAPPELS.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\tryparseRAPPELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\tryparseRAPPELS.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\tryparseRAPPELS.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\tryparseRAPPELS.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\tryparseRAPPELS.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\refint\tryparseRAPPELS.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\tryparseRAPPELS.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\tryparseRAPPELS.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-EX2-RAPPELS TRYPARSE\tryparseRAPPELS\obj\Debug\net6.0\ref\tryparseRAPPELS.dll
