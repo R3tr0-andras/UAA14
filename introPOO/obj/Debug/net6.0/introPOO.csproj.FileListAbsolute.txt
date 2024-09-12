@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\introPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\introPOO.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\introPOO.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\introPOO.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\bin\Debug\net6.0\introPOO.exe
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\bin\Debug\net6.0\introPOO.deps.json
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\bin\Debug\net6.0\introPOO.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\bin\Debug\net6.0\introPOO.dll
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\bin\Debug\net6.0\introPOO.pdb
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\introPOO.dll
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\refint\introPOO.dll
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\introPOO.pdb
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\introPOO.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\introPOO\introPOO\obj\Debug\net6.0\ref\introPOO.dll
