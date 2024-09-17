@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\bin\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\bin\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\bin\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\bin\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\bin\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\refint\Andras-ACT1-LampeEtInterrupteur.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\Andras-ACT1-LampeEtInterrupteur.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Andras-ACT1-LampeEtInterrupteur\obj\Debug\net6.0\ref\Andras-ACT1-LampeEtInterrupteur.dll

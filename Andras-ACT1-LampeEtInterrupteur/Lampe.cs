@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,19 +25,30 @@ namespace Andras_ACT1_LampeEtInterrupteur
             _couleurHexa = couleurHexa;
         }
 
-        public bool RemplacerAmpoule
+        public string CouleurHexa
+        {
+            get { return _couleurHexa; }
+            set { _couleurHexa = value; }
+        }
+
+        public string IdLampe
+        {
+            get => _idLampe;
+            set => _idLampe = value;
+        }
+        public bool AUneAmpoule
         {
             get { return _aUneAmpoule; }
             set { _aUneAmpoule = value; }
         }
 
-        public bool BrancherDebrancher
+        public bool ADuCourrant
         {
             get { return _aDuCourrant; }
             set { _aDuCourrant = value; }
         }
 
-        public bool AllumerEteindre
+        public bool EstAllume
         {
             get { return _estAllume; }
             set { _estAllume = value; }
