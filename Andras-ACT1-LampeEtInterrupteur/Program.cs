@@ -9,6 +9,7 @@
             List<Interrupteur> interrupteurs = new List<Interrupteur>();
             int temp = 0;
             string input = "";
+
             while (end)
             {
                 Console.WriteLine("Ajouter une Lampe\n");
@@ -25,6 +26,22 @@
                 bool aUneAmpoule;
                 bool.TryParse(input, out aUneAmpoule);
 
+                Console.WriteLine("Voulez-vous continuer ? (Oui/Non)");
+                string? choixContinuerInput = Console.ReadLine();
+
+                if (choixContinuerInput != null)
+                {
+                    choixContinuerInput = choixContinuerInput.ToLower();
+                    if (choixContinuerInput == "non")
+                    {
+                        end = false;
+                    }
+                    else if (choixContinuerInput == "oui")
+                    {
+                        Console.Clear();
+                    }
+                }
             }
+        }
     }
 }
