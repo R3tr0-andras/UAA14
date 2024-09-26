@@ -9,14 +9,10 @@ namespace Andras_Ex1_Le_cercle
     internal class Circle
     {
         private float _rayon;
-        private float _aire;
-        private float _perimetre;
 
         public Circle(float rayon)
         {
             _rayon = rayon;
-            RecalculateAire();
-            RecalculatePerimetre();
         }
 
         public float Rayon
@@ -25,34 +21,24 @@ namespace Andras_Ex1_Le_cercle
             set
             {
                 _rayon = value;
-                RecalculateAire();
-                RecalculatePerimetre();
+
             }
         }
 
-        public float Aire
+        private float calculateAire()
         {
-            get { return _aire; }
-            private set { _aire = value; }
+            return (float)Math.PI * _rayon * _rayon;
         }
 
-        public float Perimetre
+        private float calculatePerimetre()
         {
-            get { return _perimetre; }
-            private set { _perimetre = value; }
-        }
-        private void RecalculateAire()
-        {
-            Aire = (float)Math.PI * _rayon * _rayon;
-        }
-
-        private void RecalculatePerimetre()
-        {
-            Perimetre = 2f * (float)Math.PI * _rayon;
+            return 2f * (float)Math.PI * _rayon;
         }
         public string InfoCercle()
         {
-            return $"Ce cercle est un cercle de rayon : {_rayon}, d'aire : {_aire} et de périmètre : {_perimetre}";
+            float aire = calculateAire();
+            float perimetre = calculatePerimetre();
+            return $"Ce cercle est un cercle\n de rayon : {_rayon}\n d'aire : {aire}\n de périmètre : {perimetre} \n";
         }
 
     }
