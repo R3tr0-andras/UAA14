@@ -9,37 +9,45 @@ namespace Andras_Ex2_nombreComplexe
     internal class Bidulechouette
     {
         //partie réel
-        private int _r;
+        private double _r;
 
         //partie immaginaire
-        private int _i;
+        private double _i;
 
-        public Complexe(int r, int i)
+        public Bidulechouette(double r, double i)
         {
             _r = r;
             _i = i;
         }
 
-        public int R
+        public double R
         {
             get { return _r; }
             set { _r = value; }
         }
 
-        public int I 
+        public double I 
         { 
             get { return _i; } 
             set { _i = value; }
         }
 
-        public string AfficheComplexe()
+        public string AfficherModule()
         {
-            return ("");
-        }²q
+            double z = CalculModule(R, I);
+            return ("Le module est :" + z);
+        }
 
-        public void CalculModule(int r, int i) 
+        public double CalculModule(double r, double i) 
         {
-            
+            double result;
+            return result = Math.Sqrt(r * r + i * i);
+        }
+
+        public string AfficherComplexe()
+        {
+            string result;
+            return result = $"Le complexe : ({R}, {I})";
         }
     }
 }

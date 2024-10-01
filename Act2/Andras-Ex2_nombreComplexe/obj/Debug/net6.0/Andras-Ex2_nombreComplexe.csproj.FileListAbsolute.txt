@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\Andras-Ex2_nombreComplexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\Andras-Ex2_nombreComplexe.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\Andras-Ex2_nombreComplexe.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\Andras-Ex2_nombreComplexe.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\bin\Debug\net6.0\Andras-Ex2_nombreComplexe.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\bin\Debug\net6.0\Andras-Ex2_nombreComplexe.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\bin\Debug\net6.0\Andras-Ex2_nombreComplexe.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\bin\Debug\net6.0\Andras-Ex2_nombreComplexe.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\bin\Debug\net6.0\Andras-Ex2_nombreComplexe.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\Andras-Ex2_nombreComplexe.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\refint\Andras-Ex2_nombreComplexe.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\Andras-Ex2_nombreComplexe.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\Andras-Ex2_nombreComplexe.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex2_nombreComplexe\obj\Debug\net6.0\ref\Andras-Ex2_nombreComplexe.dll

@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\bin\Debug\net6.0\Andras-Ex3_SandwishAleatoires.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\bin\Debug\net6.0\Andras-Ex3_SandwishAleatoires.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\bin\Debug\net6.0\Andras-Ex3_SandwishAleatoires.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\bin\Debug\net6.0\Andras-Ex3_SandwishAleatoires.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\bin\Debug\net6.0\Andras-Ex3_SandwishAleatoires.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\Andras-Ex3_SandwishAleatoires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\Andras-Ex3_SandwishAleatoires.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\Andras-Ex3_SandwishAleatoires.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\Andras-Ex3_SandwishAleatoires.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\Andras-Ex3_SandwishAleatoires.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\refint\Andras-Ex3_SandwishAleatoires.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\Andras-Ex3_SandwishAleatoires.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\Andras-Ex3_SandwishAleatoires.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex3_SandwishAleatoires\obj\Debug\net6.0\ref\Andras-Ex3_SandwishAleatoires.dll

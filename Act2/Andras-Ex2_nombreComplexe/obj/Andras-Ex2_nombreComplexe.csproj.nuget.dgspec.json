@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andra\\Desktop\\wpf\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj": {}
+    "C:\\Users\\Andra\\Desktop\\visual\\uaa14 repo\\UAA14\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andra\\Desktop\\wpf\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj": {
+    "C:\\Users\\Andra\\Desktop\\visual\\uaa14 repo\\UAA14\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andra\\Desktop\\wpf\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj",
+        "projectUniqueName": "C:\\Users\\Andra\\Desktop\\visual\\uaa14 repo\\UAA14\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj",
         "projectName": "Andras-Ex2_nombreComplexe",
-        "projectPath": "C:\\Users\\Andra\\Desktop\\wpf\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj",
+        "projectPath": "C:\\Users\\Andra\\Desktop\\visual\\uaa14 repo\\UAA14\\Act2\\Andras-Ex2_nombreComplexe\\Andras-Ex2_nombreComplexe.csproj",
         "packagesPath": "C:\\Users\\Andra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andra\\Desktop\\wpf\\Act2\\Andras-Ex2_nombreComplexe\\obj\\",
+        "outputPath": "C:\\Users\\Andra\\Desktop\\visual\\uaa14 repo\\UAA14\\Act2\\Andras-Ex2_nombreComplexe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
