@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\bin\Debug\net6.0\Andras-ExSimples.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\bin\Debug\net6.0\Andras-ExSimples.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\bin\Debug\net6.0\Andras-ExSimples.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\bin\Debug\net6.0\Andras-ExSimples.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\bin\Debug\net6.0\Andras-ExSimples.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\Andras-ExSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\Andras-ExSimples.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\Andras-ExSimples.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\Andras-ExSimples.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\Andras-ExSimples.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\refint\Andras-ExSimples.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\Andras-ExSimples.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\Andras-ExSimples.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-ExSimples\obj\Debug\net6.0\ref\Andras-ExSimples.dll

@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\bin\Debug\net6.0\Andras-Ex4_Personne.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\bin\Debug\net6.0\Andras-Ex4_Personne.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\bin\Debug\net6.0\Andras-Ex4_Personne.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\bin\Debug\net6.0\Andras-Ex4_Personne.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\bin\Debug\net6.0\Andras-Ex4_Personne.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\Andras-Ex4_Personne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\Andras-Ex4_Personne.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\Andras-Ex4_Personne.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\Andras-Ex4_Personne.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\Andras-Ex4_Personne.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\refint\Andras-Ex4_Personne.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\Andras-Ex4_Personne.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\Andras-Ex4_Personne.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act2\Andras-Ex4_Personne\obj\Debug\net6.0\ref\Andras-Ex4_Personne.dll
