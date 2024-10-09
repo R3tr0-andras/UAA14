@@ -23,35 +23,25 @@ namespace Andras_Ex4_Personne
         public decimal Montant
         {
             get { return _montant; }
+            set { _montant = value; }
         }
         public void AjouterArgent(decimal montant)
         {
-            if (montant <= 0)
-            {
-                Console.WriteLine("Le montant à ajouter doit être positif.");
-            }
-            else
-            {
-                _montant += montant;
-                Console.WriteLine($"{_nom} a ajouté {montant:C} dans son porte-monnaie.");
-            }
+            _montant += montant;
         }
         public bool RetirerArgent(decimal montant)
         {
             if (montant <= 0)
             {
-                Console.WriteLine("Le montant à retirer doit être positif.");
                 return false;
             }
             if (_montant >= montant)
             {
                 _montant -= montant;
-                Console.WriteLine($"{_nom} a retiré {montant:C} de son porte-monnaie.");
                 return true;
             }
             else
             {
-                Console.WriteLine($"{_nom} n'a pas assez d'argent pour retirer {montant:C}.");
                 return false;
             }
         }
@@ -60,7 +50,6 @@ namespace Andras_Ex4_Personne
             if (RetirerArgent(montant))
             {
                 destinataire.AjouterArgent(montant);
-                Console.WriteLine($"{_nom} a transféré {montant:C} à {destinataire.Nom}.");
             }
         }
     }

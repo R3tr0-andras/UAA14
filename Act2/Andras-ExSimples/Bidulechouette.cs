@@ -49,5 +49,11 @@ namespace Andras_Ex2_nombreComplexe
             string result;
             return result = $"Le complexe : ({R}, {I})";
         }
+        // Méthode pour ajouter un autre complexe au complexe courant
+        public void Ajoute(Bidulechouette autre)
+        {
+            this.R += autre.R;
+            this.I += autre.I;
+        }
     }
 }
