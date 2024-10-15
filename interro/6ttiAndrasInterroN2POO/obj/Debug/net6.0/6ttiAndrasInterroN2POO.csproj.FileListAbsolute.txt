@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\bin\Debug\net6.0\6ttiAndrasInterroN2POO.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\bin\Debug\net6.0\6ttiAndrasInterroN2POO.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\bin\Debug\net6.0\6ttiAndrasInterroN2POO.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\bin\Debug\net6.0\6ttiAndrasInterroN2POO.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\bin\Debug\net6.0\6ttiAndrasInterroN2POO.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\6ttiAndrasInterroN2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\6ttiAndrasInterroN2POO.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\6ttiAndrasInterroN2POO.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\6ttiAndrasInterroN2POO.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\6ttiAndrasInterroN2POO.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\refint\6ttiAndrasInterroN2POO.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\6ttiAndrasInterroN2POO.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\6ttiAndrasInterroN2POO.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\6ttiAndrasInterroN2POO\obj\Debug\net6.0\ref\6ttiAndrasInterroN2POO.dll
