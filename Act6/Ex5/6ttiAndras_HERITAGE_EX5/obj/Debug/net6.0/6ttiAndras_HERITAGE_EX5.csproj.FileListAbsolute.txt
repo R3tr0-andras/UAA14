@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\bin\Debug\net6.0\6ttiAndras_HERITAGE_EX5.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\bin\Debug\net6.0\6ttiAndras_HERITAGE_EX5.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\bin\Debug\net6.0\6ttiAndras_HERITAGE_EX5.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\bin\Debug\net6.0\6ttiAndras_HERITAGE_EX5.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\bin\Debug\net6.0\6ttiAndras_HERITAGE_EX5.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\6ttiAndras_HERITAGE_EX5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\6ttiAndras_HERITAGE_EX5.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\6ttiAndras_HERITAGE_EX5.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\6ttiAndras_HERITAGE_EX5.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\6ttiAndras_HERITAGE_EX5.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\refint\6ttiAndras_HERITAGE_EX5.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\6ttiAndras_HERITAGE_EX5.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\6ttiAndras_HERITAGE_EX5.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act6\Ex5\6ttiAndras_HERITAGE_EX5\obj\Debug\net6.0\ref\6ttiAndras_HERITAGE_EX5.dll
