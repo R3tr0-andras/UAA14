@@ -22,17 +22,15 @@ namespace _6ttiAndras_HERITAGE_Ex2
             _isCompetition = isCompetition;
             _birthDay = birthDay;
         }
-
         public string Name {  get { return _name; } set { _name = value; } }
         public int PuceNum { get { return _puceNum; } set { _puceNum = value; } }
         public int Size { get { return _size; } set { _size = value; } }
         public bool IsCompetition { get { return _isCompetition; } set { _isCompetition = value; } }
-
-        public virtual string Manger()
+        public string Manger()
         {
             return $"{_name} : mange.";
         }
-        public virtual string Dors()
+        public string Dors()
         {
             return $"{_name} : Dors.";
         }

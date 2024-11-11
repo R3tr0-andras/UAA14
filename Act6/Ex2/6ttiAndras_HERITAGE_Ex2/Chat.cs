@@ -10,18 +10,7 @@ namespace _6ttiAndras_HERITAGE_Ex2
     {
         public Chat(string name, int puceNum, int size, bool isCompetition, string birthDay) :
             base(name, puceNum, size, isCompetition, birthDay)
-        {
-
-        }
-        public override string Manger()
-        {
-            return $"{_name} : mange.";
-        }
-        public override string Dors()
-        {
-            return $"{_name} : dors.";
-        }
-
+        { }
         public string Ronronner()
         {
             return $"{_name} : ronronne.";
@@ -30,6 +19,5 @@ namespace _6ttiAndras_HERITAGE_Ex2
         {
             return $"{_name} : miaule.";
         }
-
     }
 }

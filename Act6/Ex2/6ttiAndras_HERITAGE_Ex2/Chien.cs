@@ -10,22 +10,10 @@ namespace _6ttiAndras_HERITAGE_Ex2
     {
         public Chien(string name, int puceNum, int size, bool isCompetition, string birthDay) :
             base(name, puceNum, size, isCompetition, birthDay)
-        {
-
-        }
-        public override string Manger()
-        {
-            return $"{_name} : mange.";
-        }
-        public override string Dors()
-        {
-            return $"{_name} : dors.";
-        }
-
+        { }
         public string Aboyer()
         {
             return $"{_name} : aboie.";
         }
-
     }
 }

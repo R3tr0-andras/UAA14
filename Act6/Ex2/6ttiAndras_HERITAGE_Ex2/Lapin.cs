@@ -14,19 +14,9 @@ namespace _6ttiAndras_HERITAGE_Ex2
         {
             _oreilSize = oreilSize;
         }
-        public override string Manger()
-        {
-            return $"{_name} : mange.";
-        }
-        public override string Dors()
-        {
-            return $"{_name} : Dors.";
-        }
-
         public string Bondir()
         {
             return $"{_name} : Bondis.";
         }
-
     }
 }
