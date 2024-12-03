@@ -24,16 +24,10 @@ namespace _6ttiAndras_HERITAGE_EX3
         public string Couleur {  get { return _couleur; } set { _couleur = value; } }
         public string Nom { get { return _nom; } set { _nom = value; } }
 
-        public virtual double CalculeSurface()
-        {
-            return _longueur * _largeur;
-        }
+        public abstract double CalculeSurface();
 
-        public virtual double CalculePerimetre() 
-        {
-            return 2 * (_longueur + _largeur);
-        }
-
+        public abstract double CalculePerimetre();
+        
         public virtual string Afficher()
         {
             return $"C'est un {_nom}, de longueur {_longueur} et de largeur {_largeur}, la surface : {CalculeSurface()}, le perimetre : {CalculePerimetre()}";
