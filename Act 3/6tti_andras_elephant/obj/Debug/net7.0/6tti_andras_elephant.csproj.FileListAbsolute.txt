@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\bin\Debug\net7.0\6tti_andras_elephant.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\bin\Debug\net7.0\6tti_andras_elephant.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\bin\Debug\net7.0\6tti_andras_elephant.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\bin\Debug\net7.0\6tti_andras_elephant.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\bin\Debug\net7.0\6tti_andras_elephant.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\6tti_andras_elephant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\6tti_andras_elephant.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\6tti_andras_elephant.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\6tti_andras_elephant.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\6tti_andras_elephant.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\refint\6tti_andras_elephant.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\6tti_andras_elephant.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\6tti_andras_elephant.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act 3\6tti_andras_elephant\obj\Debug\net7.0\ref\6tti_andras_elephant.dll
