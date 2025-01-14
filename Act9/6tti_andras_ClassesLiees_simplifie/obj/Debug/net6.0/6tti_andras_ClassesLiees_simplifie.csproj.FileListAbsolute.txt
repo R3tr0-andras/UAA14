@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\bin\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\bin\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\bin\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\bin\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\bin\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\refint\6tti_andras_ClassesLiees_simplifie.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\6tti_andras_ClassesLiees_simplifie.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_ClassesLiees_simplifie\obj\Debug\net6.0\ref\6tti_andras_ClassesLiees_simplifie.dll
