@@ -1,4 +1,4 @@
-﻿namespace _6tti_andras_ClassesLiees_simplifie
+﻿namespace _6tti_andras_reflectionClasseLiees_Ex
 {
     internal class Program
     {
