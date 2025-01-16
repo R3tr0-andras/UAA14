@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\bin\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\bin\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\bin\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\bin\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\bin\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\refint\6tti_andras_reflectionClasseLiees_Ex.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\6tti_andras_reflectionClasseLiees_Ex.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act9\6tti_andras_reflectionClasseLiees_Ex\obj\Debug\net7.0\ref\6tti_andras_reflectionClasseLiees_Ex.dll

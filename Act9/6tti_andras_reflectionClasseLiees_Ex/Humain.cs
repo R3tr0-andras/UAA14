@@ -21,9 +21,9 @@ namespace _6tti_andras_reflectionClasseLiees_Ex
             set { this._emprunts = value; }
         }
 
-        public Humain()
+        public Humain(string nom)
         {
-            _nom = Nom;
+            _nom = nom;
             _emprunts = new List<Emprunt>();
         }
         public void Emprunter(Emprunt emprunt)
