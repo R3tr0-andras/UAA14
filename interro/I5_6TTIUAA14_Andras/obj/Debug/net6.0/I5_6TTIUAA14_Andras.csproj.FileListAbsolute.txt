@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\bin\Debug\net6.0\I5_6TTIUAA14_Andras.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\bin\Debug\net6.0\I5_6TTIUAA14_Andras.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\bin\Debug\net6.0\I5_6TTIUAA14_Andras.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\bin\Debug\net6.0\I5_6TTIUAA14_Andras.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\bin\Debug\net6.0\I5_6TTIUAA14_Andras.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\I5_6TTIUAA14_Andras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\I5_6TTIUAA14_Andras.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\I5_6TTIUAA14_Andras.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\I5_6TTIUAA14_Andras.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\I5_6TTIUAA14_Andras.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\refint\I5_6TTIUAA14_Andras.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\I5_6TTIUAA14_Andras.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\I5_6TTIUAA14_Andras.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\interro\I5_6TTIUAA14_Andras\obj\Debug\net6.0\ref\I5_6TTIUAA14_Andras.dll
