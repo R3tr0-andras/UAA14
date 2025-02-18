@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\bin\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\bin\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\bin\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\bin\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\bin\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\refint\6tti_andras_ClassesLieesEtHeritage.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\6tti_andras_ClassesLieesEtHeritage.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act11\6tti_andras_ClassesLieesEtHeritage\obj\Debug\net6.0\ref\6tti_andras_ClassesLieesEtHeritage.dll
