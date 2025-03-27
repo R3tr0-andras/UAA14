@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\6tti_andras_cocktail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\6tti_andras_cocktail.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\6tti_andras_cocktail.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\6tti_andras_cocktail.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\bin\Debug\net6.0\6tti_andras_cocktail.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\bin\Debug\net6.0\6tti_andras_cocktail.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\bin\Debug\net6.0\6tti_andras_cocktail.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\bin\Debug\net6.0\6tti_andras_cocktail.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\bin\Debug\net6.0\6tti_andras_cocktail.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\6tti_andras_cocktail.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\refint\6tti_andras_cocktail.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\6tti_andras_cocktail.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\6tti_andras_cocktail.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\Act12\6tti_andras_cocktail\obj\Debug\net6.0\ref\6tti_andras_cocktail.dll

@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\bin\Debug\net6.0\LibrairieMenu.exe
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\bin\Debug\net6.0\LibrairieMenu.deps.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\bin\Debug\net6.0\LibrairieMenu.runtimeconfig.json
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\bin\Debug\net6.0\LibrairieMenu.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\bin\Debug\net6.0\LibrairieMenu.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\LibrairieMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\LibrairieMenu.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\LibrairieMenu.AssemblyInfo.cs
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\LibrairieMenu.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\LibrairieMenu.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\refint\LibrairieMenu.dll
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\LibrairieMenu.pdb
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\LibrairieMenu.genruntimeconfig.cache
+C:\Users\Andra\Desktop\visual\uaa14 repo\UAA14\LibrairieMenu\obj\Debug\net6.0\ref\LibrairieMenu.dll
